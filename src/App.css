@@ -1,0 +1,20 @@
+body{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(1, 1, 33);
+  color: aliceblue;
+}
+ul{
+  list-style: none;
+  display: flex;
+  text-decoration: none;
+}
+li{
+  padding: 5px;
+  font-weight: bold;
+  
+  
+}
+#nav >li{
+  color: aliceblue;
+}
